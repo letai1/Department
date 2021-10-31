@@ -8,6 +8,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 @EnableEurekaClient
 public class OnTap2Application {
 
+
     public static void main(String[] args) {
         SpringApplication.run(OnTap2Application.class, args);
     }
